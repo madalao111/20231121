@@ -2,6 +2,7 @@
 
 int main(void)
 {
-	printf("testing.\n");
+	printf("abcderffe\n");
+	printf("jahfuihapfjoa\n");
 	return 0;
 }
